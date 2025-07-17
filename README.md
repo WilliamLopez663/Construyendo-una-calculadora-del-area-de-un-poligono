@@ -56,7 +56,8 @@ print(sq)  # Square(side=6)
 
 ## :bar_chart: Resultado Final
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/images/resultado-final.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono
+/main/images/resultado-final.PNG">
 </div>
 <br>
 
